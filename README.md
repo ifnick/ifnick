@@ -12,23 +12,21 @@
 
 # 🧠 Summary
 
-I build backend systems, APIs, and automation tools that are designed to handle real-world usage — including high traffic, structured data, and large-scale data storage.
+I build **backend systems**, **APIs**, and **automation tools** designed to handle **real-world usage**, including high traffic, structured data, and large-scale data storage.
 
-Most of my work is focused on keeping backend services reliable, efficient, and stable under load, especially in Linux-based environments.
-
-I also work closer to the system layer when needed, particularly with databases, networking, and performance-sensitive services.
+Most of my work focuses on keeping backend services **reliable, efficient**, and **stable under load**, especially in **Linux-based environments**. I also dive deeper into **databases**, **networking**, and **performance-sensitive services** when needed.
 
 ---
 
-# ⚙️ Core strengths
+# ⚙️ Core Strengths
 
-* Backend API design and service development
-* Systems built for real usage and scalable load
-* Linux-based automation and service management
-* Database-driven application design and optimization
-* Real-time / socket-based communication systems
-* Performance-aware scripting and backend optimization
-* APIs designed around data flow, storage, and mapping at scale
+* **Backend API design** and service development
+* **Systems built for real usage** and scalable load
+* **Linux-based automation** and service management
+* **Database-driven application design** and optimization
+* **Real-time** / socket-based communication systems
+* **Performance-aware scripting** and backend optimization
+* **APIs designed** around data flow, storage, and mapping at scale
 
 ---
 
@@ -68,11 +66,11 @@ I also work closer to the system layer when needed, particularly with databases,
 
 # 🗄️ Databases
 
-* PostgreSQL
-* MySQL / MariaDB
-* SQLite
+* **PostgreSQL**
+* **MySQL / MariaDB**
+* **SQLite**
 
-I focus on designing schemas and queries that stay stable and efficient as data grows, not just small-scale setups.
+I focus on designing **schemas and queries** that stay stable and efficient as data grows—not just small-scale setups.
 
 ---
 
@@ -80,58 +78,56 @@ I focus on designing schemas and queries that stay stable and efficient as data 
 
 I work across different environments depending on what I’m building:
 
-* Windows 7 → 11 (development and tooling)
-* Ubuntu (primary Linux environment)
-* Debian (stable server environments)
-* CentOS (enterprise / legacy systems)
-* macOS (occasional terminal-based development)
+* **Windows 7 → 11** (development and tooling)
+* **Ubuntu** (primary Linux environment)
+* **Debian** (stable server environments)
+* **CentOS** (enterprise / legacy systems)
+* **macOS** (occasional terminal-based development)
 
 Work usually involves:
 
-* Linux system administration and service setup
-* Bash automation and scripting
-* Cross-platform development and deployment consistency
-* Networking-aware backend design
-* Process and service management
+* **Linux system administration** and service setup
+* **Bash automation** and scripting
+* Cross-platform **development** and **deployment consistency**
+* **Networking-aware backend design**
+* **Process and service management**
 
 ---
 
-# 🧠 How I work
+# 🧠 How I Work
 
-* I build systems that are meant to run under real usage, not just test conditions
-* I care about correctness first, then performance when it actually matters
-* I avoid over-engineering, but I don’t ignore structure or scalability
-* I optimize when there’s a real bottleneck, not prematurely
-* I design APIs based on how data actually flows through a system
+* I build systems that are meant to **run under real usage**, not just test conditions.
+* I care about **correctness first**, then **performance** when it actually matters.
+* I avoid **over-engineering**, but I don’t ignore **structure** or **scalability**.
+* I optimize when there’s a **real bottleneck**, not prematurely.
+* I design **APIs** based on how data **actually flows** through a system.
 
 ---
 
 # 📊 GitHub Activity
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pumperdumper&theme=github_dark" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pumperdumper&theme=github_dark" />
 </p>
 
 ---
 
-# 🔥 What I work on
+# 🔥 What I Work On
 
-* Backend API systems and architecture
-* Linux automation and infrastructure tooling
-* Database-driven applications
-* Socket-based and real-time systems
-* Internal backend utilities and services
+* **Backend API systems** and architecture
+* **Linux automation** and infrastructure tooling
+* **Database-driven applications**
+* **Socket-based** and real-time systems
+* Internal **backend utilities** and services
 
 ---
 
-# 🚀 Current focus
+# 🚀 Current Focus
 
-* Improving backend performance under load
-* Building scalable API-driven systems
-* Linux automation and infrastructure workflows
-* Database optimization and architecture design
+* Improving **backend performance under load**
+* Building **scalable API-driven systems**
+* **Linux automation** and infrastructure workflows
+* **Database optimization** and architecture design
 
 ---
 
@@ -149,12 +145,10 @@ Loading repositories...
 
 For work opportunities or collaboration:
 
-* Email: [ni_ck@internet.ru](mailto:ni_ck@internet.ru)
+* **Email**: [ni_ck@internet.ru](mailto:ni_ck@internet.ru)
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=120&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=120&section=footer"/>
 </div>
