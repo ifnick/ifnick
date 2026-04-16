@@ -4,7 +4,7 @@
 
 # Hey, I'm Nick
 
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=API+development;Linux+systems+and+automation;Data-driven+services;Building+systems+that+handle+real+usage\&center=true\&size=20)
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=API+development;Linux+systems+and+automation;Data-driven+services;Building+systems+that+handle+real+usage%0A&center=true&size=20)
 
 </div>
 
