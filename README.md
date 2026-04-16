@@ -4,7 +4,7 @@
 
 # Hey, I'm Nick
 
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Backend+API+development;Linux+systems+and+automation;Data-driven+services;Building+systems+that+handle+real+usage\&center=true\&size=20)
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=API+development;Linux+systems+and+automation;Data-driven+services;Building+systems+that+handle+real+usage\&center=true\&size=20)
 
 </div>
 
@@ -12,17 +12,18 @@
 
 # 🧠 Summary
 
-I build **backend systems**, **APIs**, and **automation tools** designed to handle **real-world usage**, including high traffic and large-scale data storage. My work focuses on ensuring that services remain **reliable**, **efficient**, and **stable under load**, particularly in **Linux-based environments**. I also specialize in **database optimization**, **networking**, and **performance-sensitive services**.
+I specialize in designing and developing **scalable APIs**, **automation tools**, and **data-driven solutions** that perform reliably under heavy usage. My expertise is in building robust systems within **Linux-based environments**, with a strong focus on **database design** and **performance optimization**.
 
 ---
 
 # ⚙️ Core Strengths
 
-* **Backend API design** and development
-* **Linux-based automation** and service management
-* **Database design** and optimization for scalability
-* **Real-time** and socket-based communication systems
-* Performance tuning and **backend optimization**
+* Designing and developing efficient **APIs**
+* Building systems for **high traffic** and **scalability**
+* **Linux automation** and service management
+* **Database optimization** for large-scale applications
+* Creating **real-time communication systems** (socket-based)
+* **Performance tuning** for demanding services
 
 ---
 
@@ -62,26 +63,26 @@ I build **backend systems**, **APIs**, and **automation tools** designed to hand
 
 # 🗄️ Databases
 
-I specialize in **PostgreSQL**, **MySQL/MariaDB**, and **SQLite**, focusing on **schema design** and **queries** that scale efficiently as data grows.
+I focus on **PostgreSQL**, **MySQL/MariaDB**, and **SQLite**, designing schemas and queries that remain efficient as data grows.
 
 ---
 
 # 🐧 Systems & Environment
 
-I work across a variety of environments, including:
+I work across various environments, including:
 
 * **Windows** (development and tooling)
 * **Ubuntu** (primary Linux environment)
 * **Debian** and **CentOS** (server environments)
 * **macOS** (occasional development)
 
-Typical tasks include **Linux system administration**, **Bash automation**, and cross-platform **development**.
+Key areas of work include **system administration**, **Bash scripting**, and **cross-platform consistency**.
 
 ---
 
 # 🧠 My Approach
 
-I prioritize **correctness** first, ensuring systems perform optimally only when necessary. I avoid over-engineering and focus on building systems that can handle real-world usage. I design **APIs** based on how data flows through the system and optimize performance when real bottlenecks occur.
+I prioritize **correctness** first, building **scalable** solutions that perform efficiently under real-world conditions. I design **APIs** based on how data flows through systems, ensuring reliable service delivery. I optimize when real bottlenecks occur, avoiding premature tuning.
 
 ---
 
@@ -95,20 +96,20 @@ I prioritize **correctness** first, ensuring systems perform optimally only when
 
 # 🔥 What I Work On
 
-* Backend **API systems** and architecture
-* **Linux automation** and infrastructure tooling
+* Designing **scalable API architectures**
+* **Linux automation** and **infrastructure tooling**
 * **Database-driven applications** and optimization
-* **Real-time systems** and socket communication
-* Internal **backend utilities** and services
+* Building **real-time** systems and services
+* Developing internal **utilities** and tools
 
 ---
 
 # 🚀 Current Focus
 
-* Enhancing **backend performance** under load
-* Developing **scalable API-driven systems**
-* Streamlining **Linux automation** workflows
-* Optimizing **database architectures**
+* Improving **system performance** under load
+* Creating **scalable API solutions**
+* Streamlining **automation** workflows
+* Optimizing **data storage** and **queries**
 
 ---
 
