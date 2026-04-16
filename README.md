@@ -12,21 +12,17 @@
 
 # 🧠 Summary
 
-I build **backend systems**, **APIs**, and **automation tools** designed to handle **real-world usage**, including high traffic, structured data, and large-scale data storage.
-
-Most of my work focuses on keeping backend services **reliable, efficient**, and **stable under load**, especially in **Linux-based environments**. I also dive deeper into **databases**, **networking**, and **performance-sensitive services** when needed.
+I build **backend systems**, **APIs**, and **automation tools** designed to handle **real-world usage**, including high traffic and large-scale data storage. My work focuses on ensuring that services remain **reliable**, **efficient**, and **stable under load**, particularly in **Linux-based environments**. I also specialize in **database optimization**, **networking**, and **performance-sensitive services**.
 
 ---
 
 # ⚙️ Core Strengths
 
-* **Backend API design** and service development
-* **Systems built for real usage** and scalable load
+* **Backend API design** and development
 * **Linux-based automation** and service management
-* **Database-driven application design** and optimization
-* **Real-time** / socket-based communication systems
-* **Performance-aware scripting** and backend optimization
-* **APIs designed** around data flow, storage, and mapping at scale
+* **Database design** and optimization for scalability
+* **Real-time** and socket-based communication systems
+* Performance tuning and **backend optimization**
 
 ---
 
@@ -66,41 +62,26 @@ Most of my work focuses on keeping backend services **reliable, efficient**, and
 
 # 🗄️ Databases
 
-* **PostgreSQL**
-* **MySQL / MariaDB**
-* **SQLite**
-
-I focus on designing **schemas and queries** that stay stable and efficient as data grows—not just small-scale setups.
+I specialize in **PostgreSQL**, **MySQL/MariaDB**, and **SQLite**, focusing on **schema design** and **queries** that scale efficiently as data grows.
 
 ---
 
 # 🐧 Systems & Environment
 
-I work across different environments depending on what I’m building:
+I work across a variety of environments, including:
 
-* **Windows 7 → 11** (development and tooling)
+* **Windows** (development and tooling)
 * **Ubuntu** (primary Linux environment)
-* **Debian** (stable server environments)
-* **CentOS** (enterprise / legacy systems)
-* **macOS** (occasional terminal-based development)
+* **Debian** and **CentOS** (server environments)
+* **macOS** (occasional development)
 
-Work usually involves:
-
-* **Linux system administration** and service setup
-* **Bash automation** and scripting
-* Cross-platform **development** and **deployment consistency**
-* **Networking-aware backend design**
-* **Process and service management**
+Typical tasks include **Linux system administration**, **Bash automation**, and cross-platform **development**.
 
 ---
 
-# 🧠 How I Work
+# 🧠 My Approach
 
-* I build systems that are meant to **run under real usage**, not just test conditions.
-* I care about **correctness first**, then **performance** when it actually matters.
-* I avoid **over-engineering**, but I don’t ignore **structure** or **scalability**.
-* I optimize when there’s a **real bottleneck**, not prematurely.
-* I design **APIs** based on how data **actually flows** through a system.
+I prioritize **correctness** first, ensuring systems perform optimally only when necessary. I avoid over-engineering and focus on building systems that can handle real-world usage. I design **APIs** based on how data flows through the system and optimize performance when real bottlenecks occur.
 
 ---
 
@@ -114,20 +95,20 @@ Work usually involves:
 
 # 🔥 What I Work On
 
-* **Backend API systems** and architecture
+* Backend **API systems** and architecture
 * **Linux automation** and infrastructure tooling
-* **Database-driven applications**
-* **Socket-based** and real-time systems
+* **Database-driven applications** and optimization
+* **Real-time systems** and socket communication
 * Internal **backend utilities** and services
 
 ---
 
 # 🚀 Current Focus
 
-* Improving **backend performance under load**
-* Building **scalable API-driven systems**
-* **Linux automation** and infrastructure workflows
-* **Database optimization** and architecture design
+* Enhancing **backend performance** under load
+* Developing **scalable API-driven systems**
+* Streamlining **Linux automation** workflows
+* Optimizing **database architectures**
 
 ---
 
