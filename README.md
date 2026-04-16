@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/nick-pyc/nick-pyc/main/assets/avatar.png" width="130" />
 
-# Hey, I'm Nick
+# Hello, I'm Nick
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=API+development;Linux+systems+and+automation;Data-driven+services;Building+systems+that+handle+real+usage%0A&center=true&size=20)
 
