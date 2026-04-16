@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pumperdumper/pumperdumper/main/assets/avatar.png" width="130" />
+<img src="https://raw.githubusercontent.com/nick-pyc/nick-pyc/main/assets/avatar.png" width="130" />
 
 # Hey, I'm Nick
 
@@ -107,7 +107,7 @@ Work usually involves:
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pumperdumper&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nick-pyc&theme=github_dark" />
 </p>
 
 ---
