@@ -117,7 +117,13 @@ I prioritize **correctness** first, building **scalable** solutions that perform
 
 <!--START_SECTION:repos-->
 
-**[HoneyJar-V2](https://github.com/nick-pyc/HoneyJar-V2)**  `Python`
+**[imap-email-api-js](https://github.com/nick-pyc/imap-email-api-js)**  `JavaScript`
+> Node.js port of imap-email-api — same endpoints, same functionality.
+
+**[imap-email-api](https://github.com/nick-pyc/imap-email-api)**  `Python`
+> Self-hosted catch-all email API for fetching site verification codes on your own domain.
+
+**[HoneyJar-V2](https://github.com/nick-pyc/HoneyJar-V2)**  `Python  ·  ⭐ 1`
 > Self-hosted honeypot lab. Catches SSH, Telnet, HTTP/S, FTP, and TFTP — logs credentials, commands, and payloads into a live dashboard with geo mapping and session replay. Runs in Docker, one command to start.
 
 <!--END_SECTION:repos-->
