@@ -1,0 +1,79 @@
+name: Update Repos
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and inject repos
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 << 'EOF'
+          import urllib.request, json, os, re
+
+          token   = os.environ['GH_TOKEN']
+          user    = 'nick-pyc'
+
+          req = urllib.request.Request(
+            f'https://api.github.com/users/{user}/repos?sort=updated&per_page=20&type=public',
+            headers={
+              'Authorization': f'Bearer {token}',
+              'Accept': 'application/vnd.github.v3+json',
+              'User-Agent': user
+            }
+          )
+          with urllib.request.urlopen(req) as r:
+            repos = json.loads(r.read())
+
+          repos = [r for r in repos if not r['fork'] and r['name'] != user][:8]
+
+          lines = []
+          for repo in repos:
+            name  = repo['name']
+            desc  = (repo.get('description') or '').strip()
+            url   = repo['html_url']
+            stars = repo['stargazers_count']
+            lang  = repo.get('language') or ''
+
+            meta = []
+            if lang:   meta.append(lang)
+            if stars:  meta.append(f'⭐ {stars}')
+            meta_str = '  `' + '  ·  '.join(meta) + '`' if meta else ''
+
+            lines.append(f'**[{name}]({url})**{meta_str}')
+            if desc:
+              lines.append(f'> {desc}')
+            lines.append('')
+
+          block = '\n'.join(lines).rstrip()
+
+          readme = open('README.md').read()
+          updated = re.sub(
+            r'<!--START_SECTION:repos-->.*?<!--END_SECTION:repos-->',
+            f'<!--START_SECTION:repos-->\n\n{block}\n\n<!--END_SECTION:repos-->',
+            readme,
+            flags=re.DOTALL
+          )
+          open('README.md', 'w').write(updated)
+          print(f'Wrote {len(repos)} repos')
+          EOF
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update repos"
+          git push
