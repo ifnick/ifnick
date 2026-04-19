@@ -117,7 +117,8 @@ I prioritize **correctness** first, building **scalable** solutions that perform
 
 <!--START_SECTION:repos-->
 
-Loading repositories...
+**[HoneyJar-V2](https://github.com/nick-pyc/HoneyJar-V2)**  `Python`
+> Self-hosted honeypot lab. Catches SSH, Telnet, HTTP/S, FTP, and TFTP — logs credentials, commands, and payloads into a live dashboard with geo mapping and session replay. Runs in Docker, one command to start.
 
 <!--END_SECTION:repos-->
 
