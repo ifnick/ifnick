@@ -24,7 +24,7 @@ jobs:
           import urllib.request, json, os, re
 
           token   = os.environ['GH_TOKEN']
-          user    = 'nick-pyc'
+          user    = 'ifnick'
 
           req = urllib.request.Request(
             f'https://api.github.com/users/{user}/repos?sort=updated&per_page=20&type=public',
