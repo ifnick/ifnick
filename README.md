@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nick-pyc/nick-pyc/main/assets/avatar.png" width="130" />
+<img src="https://raw.githubusercontent.com/ifnick/ifnick/main/assets/avatar.png" width="130" />
 
 # Hello, I'm Nick
 
@@ -89,7 +89,7 @@ I prioritize **correctness** first, building **scalable** solutions that perform
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nick-pyc&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ifnick&theme=github_dark" />
 </p>
 
 ---
