@@ -134,7 +134,7 @@ I prioritize **correctness** first, building **scalable** solutions that perform
 
 For work opportunities or collaboration:
 
-* **Email**: [ni_ck@internet.ru](mailto:ni_ck@internet.ru)
+* **Email**: [nicck@atomicmail.io](mailto:nicck@atomicmail.io)
 
 ---
 
